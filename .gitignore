@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+# dev files
+.DS_Store
+.vscode/
+broadcast/
